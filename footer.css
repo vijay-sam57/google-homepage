@@ -1,0 +1,28 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    height: 40vh;
+    justify-content: flex-end;
+}
+
+footer .container{
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #dadce0;
+}
+
+footer .container .about ,footer .container .privacy{
+    display: flex;
+    justify-content: space-between;
+}
+
+footer .container a{
+    padding: 15px;
+    color: #70757a;
+    text-decoration: none;
+}
+
+footer .container a:hover{
+    text-decoration: underline;
+}
