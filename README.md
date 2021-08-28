@@ -1,2 +1,2 @@
-# google-homepage
-The Odin Project assignment to create a replica of Google Homepage
+# Google-Homepage
+Static Google Homepage - Assignment for The Odin Project.
